@@ -48,13 +48,3 @@
 
 4. **Distributed Operations**: 
    - A custom consensus protocol ensures that data remains consistent across multiple nodes, even in case of failures.
-
-## Getting Started
-
-### Prerequisites
-
-Ensure you have the following installed:
-- **Rust** (latest stable version)
-- **OpenGL** (or WebGL for web-based applications)
-- **gRPC / WebSocket** (for distributed communication)
-
